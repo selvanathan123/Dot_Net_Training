@@ -12,3 +12,17 @@ C:\dotnet_pro\jana project\OOPS example\OOPS example\obj\Debug\net6.0\refint\OOP
 C:\dotnet_pro\jana project\OOPS example\OOPS example\obj\Debug\net6.0\OOPS example.pdb
 C:\dotnet_pro\jana project\OOPS example\OOPS example\obj\Debug\net6.0\OOPS example.genruntimeconfig.cache
 C:\dotnet_pro\jana project\OOPS example\OOPS example\obj\Debug\net6.0\ref\OOPS example.dll
+C:\dotnet_pro\Dot_net_learn\OOPS example\OOPS example\bin\Debug\net6.0\OOPS example.exe
+C:\dotnet_pro\Dot_net_learn\OOPS example\OOPS example\bin\Debug\net6.0\OOPS example.deps.json
+C:\dotnet_pro\Dot_net_learn\OOPS example\OOPS example\bin\Debug\net6.0\OOPS example.runtimeconfig.json
+C:\dotnet_pro\Dot_net_learn\OOPS example\OOPS example\bin\Debug\net6.0\OOPS example.dll
+C:\dotnet_pro\Dot_net_learn\OOPS example\OOPS example\bin\Debug\net6.0\OOPS example.pdb
+C:\dotnet_pro\Dot_net_learn\OOPS example\OOPS example\obj\Debug\net6.0\OOPS example.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet_pro\Dot_net_learn\OOPS example\OOPS example\obj\Debug\net6.0\OOPS example.AssemblyInfoInputs.cache
+C:\dotnet_pro\Dot_net_learn\OOPS example\OOPS example\obj\Debug\net6.0\OOPS example.AssemblyInfo.cs
+C:\dotnet_pro\Dot_net_learn\OOPS example\OOPS example\obj\Debug\net6.0\OOPS example.csproj.CoreCompileInputs.cache
+C:\dotnet_pro\Dot_net_learn\OOPS example\OOPS example\obj\Debug\net6.0\OOPS example.dll
+C:\dotnet_pro\Dot_net_learn\OOPS example\OOPS example\obj\Debug\net6.0\refint\OOPS example.dll
+C:\dotnet_pro\Dot_net_learn\OOPS example\OOPS example\obj\Debug\net6.0\OOPS example.pdb
+C:\dotnet_pro\Dot_net_learn\OOPS example\OOPS example\obj\Debug\net6.0\OOPS example.genruntimeconfig.cache
+C:\dotnet_pro\Dot_net_learn\OOPS example\OOPS example\obj\Debug\net6.0\ref\OOPS example.dll

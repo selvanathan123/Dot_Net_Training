@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dotnet_pro\\jana project\\OOPS example\\OOPS example\\OOPS example.csproj",
+      "projectUniqueName": "C:\\dotnet_pro\\Dot_net_learn\\OOPS example\\OOPS example\\OOPS example.csproj",
       "projectName": "OOPS example",
-      "projectPath": "C:\\dotnet_pro\\jana project\\OOPS example\\OOPS example\\OOPS example.csproj",
+      "projectPath": "C:\\dotnet_pro\\Dot_net_learn\\OOPS example\\OOPS example\\OOPS example.csproj",
       "packagesPath": "C:\\Users\\TLSPC-157\\.nuget\\packages\\",
-      "outputPath": "C:\\dotnet_pro\\jana project\\OOPS example\\OOPS example\\obj\\",
+      "outputPath": "C:\\dotnet_pro\\Dot_net_learn\\OOPS example\\OOPS example\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\TLSPC-157\\AppData\\Roaming\\NuGet\\NuGet.Config",
